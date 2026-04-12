@@ -63,3 +63,10 @@ applications
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psinesio&theme=tokyonight&layout=compact&custom_title=Technology&langs_count=9" 
   />
 </p>
+
+---
+<img 
+  alt="Top Languages" 
+  height="200" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Psinesio&theme=tokyonight&layout=compact&custom_title=Technology&langs_count=9" 
+/>
