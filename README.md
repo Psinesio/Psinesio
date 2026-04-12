@@ -55,18 +55,5 @@ applications
 ![TIA Portal](https://img.shields.io/badge/-TIA%20Portal%20(Siemens)-003366?logo=siemens&logoColor=white&style=flat-square)
 ![Studio 5000](https://img.shields.io/badge/-Studio%205000%20(Rockwell)-A6192E?logo=rocketchat&logoColor=white&style=flat-square)
 <br/>
-### 📊 GitHub Stats
----
- <img 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psinesio&theme=tokyonight&layout=compact&custom_title=Technology&langs_count=9" 
-  />
-</p>
 
----
-<img 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Psinesio&theme=tokyonight&layout=compact&custom_title=Technology&langs_count=9" 
-/>
+
